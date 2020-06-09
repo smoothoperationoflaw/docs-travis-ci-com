@@ -4,7 +4,7 @@ layout: en
 
 redirect_from:
   - /user/build-configuration/
-  - /user/how-to-skip-a-build/
+  - /user/how-to-skip-a-build/9
   - /user/repository-providers/
 ---
 
